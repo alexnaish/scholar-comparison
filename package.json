@@ -1,6 +1,6 @@
 {
   "name": "scholar-comparison",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Comparison library",
   "main": "index.js",
   "scripts": {
